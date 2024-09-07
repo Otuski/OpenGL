@@ -1,0 +1,16 @@
+C:\dev\OpenGL\Wooooo\src\Application.cpp;C:\dev\OpenGL\Wooooo\Debug\Application.obj
+C:\dev\OpenGL\Wooooo\src\IndexBuffer.cpp;C:\dev\OpenGL\Wooooo\Debug\IndexBuffer.obj
+C:\dev\OpenGL\Wooooo\src\Renderer.cpp;C:\dev\OpenGL\Wooooo\Debug\Renderer.obj
+C:\dev\OpenGL\Wooooo\src\Shaders.cpp;C:\dev\OpenGL\Wooooo\Debug\Shaders.obj
+C:\dev\OpenGL\Wooooo\src\tests\Test.cpp;C:\dev\OpenGL\Wooooo\Debug\Test.obj
+C:\dev\OpenGL\Wooooo\src\tests\TestClearColor.cpp;C:\dev\OpenGL\Wooooo\Debug\TestClearColor.obj
+C:\dev\OpenGL\Wooooo\src\tests\TestPentagono.cpp;C:\dev\OpenGL\Wooooo\Debug\TestPentagono.obj
+C:\dev\OpenGL\Wooooo\src\Texture.cpp;C:\dev\OpenGL\Wooooo\Debug\Texture.obj
+C:\dev\OpenGL\Wooooo\src\vendor\glm\detail\glm.cpp;C:\dev\OpenGL\Wooooo\Debug\glm.obj
+C:\dev\OpenGL\Wooooo\src\vendor\glm\glm.cppm;C:\dev\OpenGL\Wooooo\Debug\glm.obj
+C:\dev\OpenGL\Wooooo\src\vendor\imgui\imgui.cpp;C:\dev\OpenGL\Wooooo\Debug\imgui.obj
+C:\dev\OpenGL\Wooooo\src\vendor\imgui\imgui_demo.cpp;C:\dev\OpenGL\Wooooo\Debug\imgui_demo.obj
+C:\dev\OpenGL\Wooooo\src\vendor\imgui\imgui_draw.cpp;C:\dev\OpenGL\Wooooo\Debug\imgui_draw.obj
+C:\dev\OpenGL\Wooooo\src\vendor\imgui\imgui_impl_glfw_gl3.cpp;C:\dev\OpenGL\Wooooo\Debug\imgui_impl_glfw_gl3.obj
+C:\dev\OpenGL\Wooooo\src\VertexArray.cpp;C:\dev\OpenGL\Wooooo\Debug\VertexArray.obj
+C:\dev\OpenGL\Wooooo\src\VertexBuffer.cpp;C:\dev\OpenGL\Wooooo\Debug\VertexBuffer.obj

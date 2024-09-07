@@ -1,0 +1,10 @@
+﻿  Application.cpp
+Application.obj : error LNK2019: riferimento al simbolo esterno glfwInit non risolto nella funzione main
+Application.obj : error LNK2019: riferimento al simbolo esterno glfwTerminate non risolto nella funzione main
+Application.obj : error LNK2019: riferimento al simbolo esterno glfwCreateWindow non risolto nella funzione main
+Application.obj : error LNK2019: riferimento al simbolo esterno glfwWindowShouldClose non risolto nella funzione main
+Application.obj : error LNK2019: riferimento al simbolo esterno glfwPollEvents non risolto nella funzione main
+Application.obj : error LNK2019: riferimento al simbolo esterno glfwMakeContextCurrent non risolto nella funzione main
+Application.obj : error LNK2019: riferimento al simbolo esterno glfwSwapBuffers non risolto nella funzione main
+C:\dev\OpenGL\\Dependences\GLFW\lib-vc2022\glfw3.lib : warning LNK4272: il tipo 'x86' del computer della libreria è in conflitto con il tipo 'x64' del computer di destinazione
+C:\dev\OpenGL\x64\Debug\Wooooo.exe : fatal error LNK1120: 7 esterni non risolti
