@@ -22,6 +22,7 @@
 #include "imgui/imgui_impl_glfw_gl3.h"
 
 #include "tests/TestClearColor.h"
+#include "tests/TestPentagono.h"
 int main(void)
 {
     GLFWwindow* window;
@@ -31,7 +32,7 @@ int main(void)
         return -1;
 
     /* Create a windowed mode window and its OpenGL context */
-    window = glfwCreateWindow(960, 540, "Hello World", NULL, NULL);
+    window = glfwCreateWindow(1920, 1080, "Hello World", NULL, NULL);
 
     if (!window)
     {
@@ -63,6 +64,7 @@ int main(void)
     currentTest = testMenu;
 
     testMenu->RegisterTest<test::TestClearColor>("Clear Color Test");
+    testMenu->RegisterTest<test::TestPentagono>("Test Pentagono");
     
 
 
